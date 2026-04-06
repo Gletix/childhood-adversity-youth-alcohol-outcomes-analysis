@@ -104,4 +104,4 @@ dhatsayini.rattambige@acu.edu.au
 
 If you use or adapt this code, please cite the associated thesis:
 
-> Dhatsayini Rattambige (2026). *The Impact of Child Maltreatment and Adverse Childhood Experiences on Problematic Alcohol Use in a Nationally Representative Survey of Youth*. Doctoral thesis, Australian Catholic University.
+> Dhatsayini Rattambige (2026). *The Impact of Child Maltreatment and Adverse Childhood Experiences on Problematic Alcohol Use in a Nationally Representative Survey of Youth*. Child Maltreatment, 10775595251387118.
