@@ -3,7 +3,7 @@
 This repository contains the R analysis code for the PhD thesis:
 
 > **Childhood Adversities and Youth Alcohol Use: Developmental Trajectories Across Neurobiological and Social Contexts**
-> Dhatsayini Rattambige | Australian Catholic University, Institute of Child Protection Studies
+> | Dhatsayini Rattambige | Australian Catholic University, Institute of Child Protection Studies
 > Submitted April, 2026]
 
 ---
