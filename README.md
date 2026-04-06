@@ -94,9 +94,9 @@ All packages can be installed from CRAN using `install.packages()`. Each script 
 
 For questions about this code, please contact:
 
-**[Your name]**
+**Dhatsayini Rattambie**
 Institute of Child Protection Studies, Australian Catholic University
-[Your email address]
+dhatsayini.rattambige@acu.edu.au
 
 ---
 
@@ -104,4 +104,4 @@ Institute of Child Protection Studies, Australian Catholic University
 
 If you use or adapt this code, please cite the associated thesis:
 
-> [Your name] ([Year]). *[Thesis title]*. Doctoral thesis, Australian Catholic University.
+> Dhatsayini Rattambige (2026). *Childhood Adversities and Youth Alcohol Use: Developmental Trajectories Across Neurobiological and Social Contexts*. Doctoral thesis, Australian Catholic University.
